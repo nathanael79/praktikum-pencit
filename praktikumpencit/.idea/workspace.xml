@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="072a96ef-0069-4bc9-b14f-2490373873f8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/praktikumpencit$filtertransparan.coverage" NAME="filtertransparan Coverage Results" MODIFIED="1528868826493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit8" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$filtermedian.coverage" NAME="filtermedian Coverage Results" MODIFIED="1529673316657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_15___Ekstraksi_Fitur__Warna_.coverage" NAME="Praktikum 15 - Ekstraksi Fitur (Warna) Coverage Results" MODIFIED="1529745676837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit15" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$noisegauss20_.coverage" NAME="noisegauss20% Coverage Results" MODIFIED="1528878788877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$robert.coverage" NAME="robert Coverage Results" MODIFIED="1529395385820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit11" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_09___Image_Noise__manual___OpenCV_version_.coverage" NAME="Praktikum 09 - Image Noise (manual &amp; OpenCV version) Coverage Results" MODIFIED="1529672793955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit9" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_12___Sharpness.coverage" NAME="Praktikum 12 - Sharpness Coverage Results" MODIFIED="1529676245540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit12" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$noisesalt_pepper20_.coverage" NAME="noisesalt&amp;pepper20% Coverage Results" MODIFIED="1528879728378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_11___Deteksi_Tepi.coverage" NAME="Praktikum 11 - Deteksi Tepi Coverage Results" MODIFIED="1529675402608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit11" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$histogramrgb.coverage" NAME="histogramrgb Coverage Results" MODIFIED="1529624436178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit7" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$inversilog.coverage" NAME="inversilog Coverage Results" MODIFIED="1529622949873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit6" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$histogramhequalisasi.coverage" NAME="histogramhequalisasi Coverage Results" MODIFIED="1529624631760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit7" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_13___Pengolahan_Dasar_Gambar_Berwarna.coverage" NAME="Praktikum 13 - Pengolahan Dasar Gambar Berwarna Coverage Results" MODIFIED="1529679566031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit13" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$nthrootpower.coverage" NAME="nthrootpower Coverage Results" MODIFIED="1529623085863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit6" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$Praktikum_14___Filter_Gambar_Berwarna.coverage" NAME="Praktikum 14 - Filter Gambar Berwarna Coverage Results" MODIFIED="1529680067110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit14" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$nthpower.coverage" NAME="nthpower Coverage Results" MODIFIED="1529623038179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit6" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$histogram.coverage" NAME="histogram Coverage Results" MODIFIED="1529624222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit7" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$noisespeckle20_.coverage" NAME="noisespeckle20% Coverage Results" MODIFIED="1528878994891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$filterratarata.coverage" NAME="filterratarata Coverage Results" MODIFIED="1529673619646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$reduksinoise.coverage" NAME="reduksinoise Coverage Results" MODIFIED="1528878191760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit10" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$inversiimage.coverage" NAME="inversiimage Coverage Results" MODIFIED="1529622762544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit6" />
+    <SUITE FILE_PATH="coverage/praktikumpencit$imagelog.coverage" NAME="imagelog Coverage Results" MODIFIED="1529622865103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../praktikumpencit6" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Praktikum 09 - Image Noise (manual &amp; OpenCV version).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit9/Praktikum 09 - Image Noise (manual &amp; OpenCV version).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="56" selection-start-line="56" selection-end-line="70" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grayscalefirst.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit10/grayscalefirst.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filtermedian.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit10/filtermedian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filterratarata.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit10/filterratarata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 11 - Deteksi Tepi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit11/Praktikum 11 - Deteksi Tepi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3045">
+              <caret line="205" selection-start-line="205" selection-end-line="241" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 12 - Sharpness.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit12/Praktikum 12 - Sharpness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="78" selection-start-line="78" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 13 - Pengolahan Dasar Gambar Berwarna.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit13/Praktikum 13 - Pengolahan Dasar Gambar Berwarna.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="122" selection-start-line="122" selection-end-line="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 14 - Filter Gambar Berwarna.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit14/Praktikum 14 - Filter Gambar Berwarna.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="108" column="10" selection-start-line="69" selection-end-line="108" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 15 - Ekstraksi Fitur (Warna).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit15/Praktikum 15 - Ekstraksi Fitur (Warna).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Praktikum 16 - Ekstraksi Fitur (LBP).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../praktikumpencit16/Praktikum 16 - Ekstraksi Fitur (LBP).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="e#180#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/loadimage.py" />
+        <option value="$PROJECT_DIR$/copyimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit2/redbox.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit2/greenbox.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit2/indonesiaflag.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit2/flipimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit3/flipimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit4/grayscaleimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit4/binerimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage4.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage2.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit5/brightnessrgb.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit5/brightnessimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit5/contrassimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit5/autocontrassimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit6/inversiimage.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit6/imagelog.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit6/inversilog.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit6/nthpower.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit7/histogramrgb.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit6/nthrootpower.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit8/filtertransparan.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit2/bluebox.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit7/histogramhequalisasi.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit7/histogram.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/reduksinoise.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/noisegauss20%.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/noisespeckle20&amp;.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/noisespeckle20%.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/noisesalt&amp;pepper20%.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/filterratarata.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit9/Praktikum 09 - Image Noise (manual &amp; OpenCV version).py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit11/robert.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit11/Praktikum 11 - Deteksi Tepi.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit12/Praktikum 12 - Sharpness.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit13/Praktikum 13 - Pengolahan Dasar Gambar Berwarna.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit14/Praktikum 14 - Filter Gambar Berwarna.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit10/filtermedian.py" />
+        <option value="$PROJECT_DIR$/../praktikumpencit15/Praktikum 15 - Ekstraksi Fitur (Warna).py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="35" />
+    <option name="width" value="683" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praktikumpencit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praktikumpencit16" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../praktikumpencit7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../praktikumpencit16" />
+      <recent name="$PROJECT_DIR$/../praktikumpencit15" />
+      <recent name="$PROJECT_DIR$/../praktikumpencit14" />
+      <recent name="$PROJECT_DIR$/../praktikumpencit13" />
+      <recent name="$PROJECT_DIR$/../praktikumpencit12" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Praktikum 15 - Ekstraksi Fitur (Warna)">
+    <configuration name="Praktikum 11 - Deteksi Tepi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="praktikumpencit11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../praktikumpencit11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../praktikumpencit11/Praktikum 11 - Deteksi Tepi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Praktikum 12 - Sharpness" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="praktikumpencit12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../praktikumpencit12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../praktikumpencit12/Praktikum 12 - Sharpness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Praktikum 13 - Pengolahan Dasar Gambar Berwarna" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="praktikumpencit13" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../praktikumpencit13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../praktikumpencit13/Praktikum 13 - Pengolahan Dasar Gambar Berwarna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Praktikum 14 - Filter Gambar Berwarna" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="praktikumpencit14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../praktikumpencit14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../praktikumpencit14/Praktikum 14 - Filter Gambar Berwarna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Praktikum 15 - Ekstraksi Fitur (Warna)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="praktikumpencit15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../praktikumpencit15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../praktikumpencit15/Praktikum 15 - Ekstraksi Fitur (Warna).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Praktikum 11 - Deteksi Tepi" />
+      <item itemvalue="Python.Praktikum 12 - Sharpness" />
+      <item itemvalue="Python.Praktikum 13 - Pengolahan Dasar Gambar Berwarna" />
+      <item itemvalue="Python.Praktikum 14 - Filter Gambar Berwarna" />
+      <item itemvalue="Python.Praktikum 15 - Ekstraksi Fitur (Warna)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Praktikum 15 - Ekstraksi Fitur (Warna)" />
+        <item itemvalue="Python.Praktikum 14 - Filter Gambar Berwarna" />
+        <item itemvalue="Python.Praktikum 13 - Pengolahan Dasar Gambar Berwarna" />
+        <item itemvalue="Python.Praktikum 12 - Sharpness" />
+        <item itemvalue="Python.Praktikum 11 - Deteksi Tepi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="072a96ef-0069-4bc9-b14f-2490373873f8" name="Default" comment="" />
+      <created>1523508860313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523508860313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="35" width="1382" height="741" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022489" side_tool="true" weight="0.22632423" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49775112" weight="0.22416534" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13616398" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.40043923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924434" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299748" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2693997" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.22677165" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924434" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50069445" side_tool="true" weight="0.22795969" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3299748" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/redbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="10" lean-forward="true" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/greenbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" lean-forward="true" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/bluebox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" lean-forward="true" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/indonesiaflag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="26" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/flipimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copyimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/redbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit5/autocontrassimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="26" selection-end-line="42" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit5/brightnessimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit4/kuantisasiimage2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit5/contrassimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit5/brightnessrgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/imageio/core/functions.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/imageio/core/request.py" />
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit4/binerimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="63" selection-start-line="10" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/indonesiaflag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="26" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/greenbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/bluebox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit2/flipimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="7" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copyimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit3/flipimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit8/filtertransparan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit7/histogramhequalisasi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/noisegauss20%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="85" selection-start-line="6" selection-end-line="6" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/noisesalt&amp;pepper20%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/noisespeckle20%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit8/Praktikum 08 - Filter Transparan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit11/robert.py" />
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit6/inversiimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="35" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit6/imagelog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="31" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit6/inversilog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit6/nthpower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="46" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit6/nthrootpower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit7/histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="23" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit7/histogramrgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit9/Praktikum 09 - Image Noise (manual &amp; OpenCV version).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="56" selection-start-line="56" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/grayscalefirst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/filterratarata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit11/Praktikum 11 - Deteksi Tepi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="205" selection-start-line="205" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit12/Praktikum 12 - Sharpness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="78" selection-start-line="78" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit13/Praktikum 13 - Pengolahan Dasar Gambar Berwarna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="122" selection-start-line="122" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit14/Praktikum 14 - Filter Gambar Berwarna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="108" column="10" selection-start-line="69" selection-end-line="108" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit15/Praktikum 15 - Ekstraksi Fitur (Warna).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit16/Praktikum 16 - Ekstraksi Fitur (LBP).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#180#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../praktikumpencit10/filtermedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
